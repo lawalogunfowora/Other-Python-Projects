@@ -6,3 +6,5 @@ A repository for my DQ projects
 **Visualization: Cont'd of Pandas dataframe visualization**
 
 **Analysing Employee Exit Data: Data Cleaning Workflow**
+
+**First SQL Query: Exploration of an SQL Database**
