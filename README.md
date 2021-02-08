@@ -8,3 +8,5 @@ A repository for my DQ projects
 **Analysing Employee Exit Data: Data Cleaning Workflow**
 
 **First SQL Query: Exploration of an SQL Database**
+
+**fuzzy.ipynb: understanding data science problem from the context of non-data experts** 
